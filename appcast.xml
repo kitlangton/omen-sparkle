@@ -8,7 +8,7 @@
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kitlangton/omen-sparkle/releases/download/v1.0.1/Omen-1.0.1.dmg" length="3185856" type="application/octet-stream" sparkle:edSignature="aXHNvO9jYZXl5SSS5V+roEd0JVSZIBENj7WGWqVPGbe4UBTEDj0k73qOV4vOLee9xfJc229iA1t4Lhcy80wwBQ=="/>
+            <enclosure url="https://github.com/kitlangton/omen-sparkle/releases/download/v1.0.1/Omen-1.0.1.dmg" length="3707024" type="application/octet-stream" sparkle:edSignature="3VzUpdFcfo+0i4Zkqh49KzdGd7PdC+L6ojupMZupXWOr6Qz4dFtn1rU2RSyzQwu6oWEhEDFV47I/MuRioJxHCw=="/>
         </item>
     </channel>
 </rss>
