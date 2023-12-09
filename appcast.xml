@@ -1,7 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Omen</title>
+        <title>Omen</title> 
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Sat, 09 Dec 2023 14:06:42 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kitlangton/omen-sparkle/releases/download/v1.0.3/Omen-1.0.3.dmg" length="3804111" type="application/octet-stream" sparkle:edSignature="JCTamLBVFd4amEprlE+GSw62mA2Z/9xrGNUFqPkqLVoAFz44/eJXjry+1MLpIGoi7W1JwDycEAeD22qP2moyDQ=="/>
+        </item>
         <item>
             <title>1.0.2</title>
             <pubDate>Fri, 08 Dec 2023 15:50:07 -0500</pubDate>
