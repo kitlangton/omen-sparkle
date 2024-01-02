@@ -3,6 +3,14 @@
     <channel>
         <title>Omen</title>
         <item>
+            <title>1.0.14</title>
+            <pubDate>Tue, 02 Jan 2024 09:42:50 -0500</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kitlangton/omen-sparkle/releases/download/v1.0.14/Omen.dmg" length="4631454" type="application/octet-stream" sparkle:edSignature="A8R7k9KwgQ3P5L6Zzt0rZOrZQjDI7hJ8G9w2JppAnZE1Ozc3kW4TmCmLdtYcp839AndqpCXUPIgy3FZmR6JYBQ=="/>
+        </item>
+        <item>
             <title>1.0.12</title>
             <pubDate>Sat, 16 Dec 2023 09:20:06 -0500</pubDate>
             <sparkle:version>12</sparkle:version>
